@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#top{
+    background-color:black;
+}
+.wideRangePara h1{
+    font-size: 48px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 30px;
+}
+.container{
+    text-align: center;
+    padding: 5% 0px;
+}
+.row{
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.image-last{
+    background-color:#be9509;
+    text-align: center;
+}
+.card{
+    border-color:black;
+}
+#footer{
+    background-color: black;
+}
+#footer p{
+    color: #be9509;
+}
+#footer p{
+    color: #be9509;
+}
+#footer a{
+    color: #be9509;
+}
